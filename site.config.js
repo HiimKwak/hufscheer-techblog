@@ -3,22 +3,26 @@ const CONFIG = {
   profile: {
     name: "훕치치 테크블로그",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "훕치치 개발진",
-    bio: "소개글",
+    role: "",
+    bio: "외대 내 모든 스포츠 활동은 훕치치에서!",
     email: "",
     linkedin: "",
-    github: "hufscheer",
+    github: "hufs-sports-live/client",
     instagram: "",
   },
   projects: [
     {
-      name: `hufscheer-techblog`,
-      href: "https://github.com/hiimkwak/hufscheer-techblog",
+      name: `훕치치`,
+      href: "https://hufscheer.site",
+    },
+    {
+      name: `훕치치 깃허브`,
+      href: "https://github.com/hufs-sports-live/client",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "hufscheer-techblog",
+    title: "훕치치 테크블로그",
     description: "훕치치 테크블로그입니다",
   },
 
