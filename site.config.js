@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "외대 내 모든 스포츠 활동은 훕치치에서!",
     email: "",
     linkedin: "",
-    github: "hufs-sports-live/client",
+    github: "hufscheer/client",
     instagram: "",
   },
   projects: [
@@ -17,7 +17,7 @@ const CONFIG = {
     },
     {
       name: `훕치치 깃허브`,
-      href: "https://github.com/hufs-sports-live/client",
+      href: "https://github.com/hufscheer/client",
     },
   ],
   // blog setting (required)
